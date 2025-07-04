@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Computer Science graduate with hands-on experience in full-stack web development and Python
-
-programming. Developed multiple web applications using modern technologies including Node.js, Python, and database systems. Proven ability to deliver complete solutions from backend logic to user interfaces.
+Computer Science graduate with hands-on experience in full-stack web development and Python programming. Developed multiple web applications using modern technologies including Node.js, Python, and database systems. Proven ability to deliver complete solutions from backend logic to user interfaces.
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [vladsadullaiev04@gmail.com](mailto:vladsadullaiev04@gmail.com)
